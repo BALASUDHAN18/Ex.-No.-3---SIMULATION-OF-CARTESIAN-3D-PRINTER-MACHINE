@@ -1,5 +1,5 @@
-# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No. 5- SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE:25/04/24
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,7 +59,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![alt text](image.png)
+
+![Screenshot 2024-04-25 172714](https://github.com/akash7812/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146819826/786d647e-1be4-406b-b8e5-ecbf63d8b58d)
+
+
 ### Name: P Balasudhan
 ### Register Number:212222240017
 
